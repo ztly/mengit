@@ -1,2 +1,2 @@
 # mengit
-I love Meng Sio
+learn git together.
